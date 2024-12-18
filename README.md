@@ -1,5 +1,5 @@
 <h1 align="center">
-Marketing-Promotion-A-B-Test
+📌Marketing-Promotion-A-B-Test📌
 </h1>
 <h4 align="center">
 패스트 푸드 체인점에서 새로운 마케팅 프로모션 전략을 도입하려고 계획 중. 해당 마케팅 프로모션에 대해 A/B Test 프로젝트를 시작하여 서로 다른 마케팅 전략의 효과를 직접 비교하기로 결정
